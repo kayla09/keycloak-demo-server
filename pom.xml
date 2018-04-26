@@ -18,8 +18,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <fabric8-maven-plugin.version>3.2.1</fabric8-maven-plugin.version>
-    <keycloak.admin.user>admin</keycloak.admin.user>
-    <keycloak.admin.password>admin</keycloak.admin.password>
+    <keycloak.admin.emma>admin</keycloak.admin.emma>
+    <keycloak.admin.emma>admin</keycloak.admin.emma>
     <keycloak.import.dir>/opt/jboss/keycloak/realms</keycloak.import.dir>
   </properties>
 
